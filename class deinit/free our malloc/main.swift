@@ -1,6 +1,6 @@
 //
 //  main.swift
-//  类释放内存
+//  free our malloc
 //
 //  Created by Beauty-jishu on 2018/10/29.
 //  Copyright © 2018年 码叔. All rights reserved.

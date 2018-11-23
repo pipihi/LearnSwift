@@ -23,7 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		4863C1E52186E7110066D731 /* 类释放内存 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "类释放内存"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4863C1E52186E7110066D731 /* free our malloc */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "free our malloc"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4863C1E82186E7110066D731 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -41,7 +41,7 @@
 		4863C1DC2186E7110066D731 = {
 			isa = PBXGroup;
 			children = (
-				4863C1E72186E7110066D731 /* 类释放内存 */,
+				4863C1E72186E7110066D731 /* free our malloc */,
 				4863C1E62186E7110066D731 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -49,25 +49,25 @@
 		4863C1E62186E7110066D731 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4863C1E52186E7110066D731 /* 类释放内存 */,
+				4863C1E52186E7110066D731 /* free our malloc */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		4863C1E72186E7110066D731 /* 类释放内存 */ = {
+		4863C1E72186E7110066D731 /* free our malloc */ = {
 			isa = PBXGroup;
 			children = (
 				4863C1E82186E7110066D731 /* main.swift */,
 			);
-			path = "类释放内存";
+			path = "free our malloc";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		4863C1E42186E7110066D731 /* 类释放内存 */ = {
+		4863C1E42186E7110066D731 /* free our malloc */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4863C1EC2186E7110066D731 /* Build configuration list for PBXNativeTarget "类释放内存" */;
+			buildConfigurationList = 4863C1EC2186E7110066D731 /* Build configuration list for PBXNativeTarget "free our malloc" */;
 			buildPhases = (
 				4863C1E12186E7110066D731 /* Sources */,
 				4863C1E22186E7110066D731 /* Frameworks */,
@@ -77,9 +77,9 @@
 			);
 			dependencies = (
 			);
-			name = "类释放内存";
+			name = "free our malloc";
 			productName = "类释放内存";
-			productReference = 4863C1E52186E7110066D731 /* 类释放内存 */;
+			productReference = 4863C1E52186E7110066D731 /* free our malloc */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -97,7 +97,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 4863C1E02186E7110066D731 /* Build configuration list for PBXProject "类释放内存" */;
+			buildConfigurationList = 4863C1E02186E7110066D731 /* Build configuration list for PBXProject "class deinit" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -109,7 +109,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				4863C1E42186E7110066D731 /* 类释放内存 */,
+				4863C1E42186E7110066D731 /* free our malloc */,
 			);
 		};
 /* End PBXProject section */
@@ -264,7 +264,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4863C1E02186E7110066D731 /* Build configuration list for PBXProject "类释放内存" */ = {
+		4863C1E02186E7110066D731 /* Build configuration list for PBXProject "class deinit" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4863C1EA2186E7110066D731 /* Debug */,
@@ -273,7 +273,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4863C1EC2186E7110066D731 /* Build configuration list for PBXNativeTarget "类释放内存" */ = {
+		4863C1EC2186E7110066D731 /* Build configuration list for PBXNativeTarget "free our malloc" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4863C1ED2186E7110066D731 /* Debug */,
